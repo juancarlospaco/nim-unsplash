@@ -4,3 +4,4 @@
 
 [For Examples see the Source Code.](https://github.com/juancarlospaco/nim-unsplash/blob/master/src/unsplash.nim#L103-L114).
 For Documentation run `nim doc unsplash.nim`.
+For Install run `nimble install unsplash`.
