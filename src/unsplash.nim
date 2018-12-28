@@ -1,5 +1,5 @@
 ## MultiSync API Client for https://source.unsplash.com
-import asyncdispatch, httpclient, strutils, json
+import asyncdispatch, httpclient, strutils
 
 const unsplashApiUrl* = "https://source.unsplash.com/" ## Unsplash API URL (SSL)
 
