@@ -1,2 +1,3 @@
-# nim-unsplash
-Unsplash API Client for Nim
+# Nim-Unsplash
+
+- MultiSync API Client for https://source.unsplash.com
